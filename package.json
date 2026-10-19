@@ -1,0 +1,19 @@
+{
+  "name": "apollonian-gasket",
+  "version": "1.0.0",
+  "description": "Apollonian Gasket: in every gap between three touching circles fits a fourth, by Descartes' circle theorem. Pack circles into circles, see the whole-number curvatures of integral gaskets, and download SVG or PNG.",
+  "repository": "github:evoluteur/apollonian-gasket",
+  "homepage": "https://evoluteur.github.io/apollonian-gasket/",
+  "copyright": "(c) 2026 Olivier Giulieri",
+  "author": "Olivier Giulieri (https://evoluteur.github.io/)",
+  "license": "MIT",
+  "keywords": [
+    "apollonian-gasket",
+    "apollonian-packing",
+    "descartes-circle-theorem",
+    "circle-packing",
+    "fractal",
+    "generative-art",
+    "svg"
+  ]
+}
